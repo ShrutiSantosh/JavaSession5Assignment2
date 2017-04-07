@@ -1,0 +1,6 @@
+package session5assignment2;
+
+public interface Stack {
+	void push(int I);
+	int pop();
+}
